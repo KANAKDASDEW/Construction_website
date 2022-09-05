@@ -1,0 +1,18 @@
+.slider{
+    width: 100%;
+}
+.carousel-control-next-icon {
+    height: 50px !important;
+    width: 20px !important;
+    background-color: rgb(154, 146, 146) !important;
+}
+.carousel-control-prev-icon{
+    height: 50px !important;
+    width: 20px !important;
+    background-color: rgb(154, 146, 146) !important;
+}
+.carousel-control-prev, 
+.carousel-control-next{
+ 
+    width: 7% !important;
+}
